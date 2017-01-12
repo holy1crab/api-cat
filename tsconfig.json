@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "noImplicitAny": false,
+    "removeComments": true,
+    "target": "es6",
+    "jsx": "preserve",
+    "sourceMap": true,
+    "listFiles": false
+  },
+  "exclude": [
+    "node_modules",
+    "bower_components"
+  ]
+}
